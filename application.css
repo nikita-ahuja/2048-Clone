@@ -1,0 +1,42 @@
+body {
+  background-color: #fdd3dc;
+}
+
+h1 {
+  font-family: tahoma;
+  font-size: 60px;
+  /*padding: 0px;*/
+}
+
+.board {
+  width: 410px;
+  height: 400px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  float: left;
+  font-size: 20px;
+  border-radius: 10px;
+  font-size: 80px;
+  outline: 3px solid white;
+}
+
+.cell {
+font-family: tahoma;
+}
+
+#header {
+  margin: auto;
+  text-align: center;
+}
+
+.button {
+  margin: auto;
+  text-align: center;
+}
